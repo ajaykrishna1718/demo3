@@ -1,0 +1,33 @@
+*In order to extract the tables from the pdf I have used a python package tabula.
+
+*tabula can read the pdfs and extract the tables from it.
+
+*There are even some other packages like camelot pyPDF pdfplumber to do this work.
+
+*Trying all of those I found the tabula package to be more effective and efficent int extracting 
+the tables from the pdf.
+
+*Even though tabula does some really good work in extracting the tables from the specified pdfs,it
+is not perfect.
+
+*I found many mistakes in the tables extracted from pdfs using tabula which needs some additional
+work either in spreasheets platform like excel or by python packages like pandas in order to 
+make the table perfect.
+
+*Every table extracted from a pdf needs some additional work as they are not perfect and contains
+mistakes.
+
+
+*I am unable to attach the pdfs I used to make this code and the csv files I extracted from the code
+as it contains my personal details.Instead I am providing a common bank statement.
+
+*But this code works on any pdf file and also needs some data manipulation as I mentioned eariler.
+
+*In order to run this file one needs to have an environment where python along with packages like
+tabula and pandas are installed.
+
+
+Thank You.
+
+
+
